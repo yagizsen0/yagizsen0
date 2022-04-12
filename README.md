@@ -1,15 +1,21 @@
-- 👋 Hi, I’m Yağız
-- 👀 I’m interested in Back-End Developing.
-- 🌱 I’m currently learning Python and JavaScript.
+- 👀 I’m interested in Back-End Developing and Game Developing.
+- 🌱 I’m currently learning Unity and Python.
 - 👨‍💻 Founder of Matris Software
 - 📫 My Instagram is @yagizsen0
 - ☎️ My Discord is yagizsen0#1556
 
 <------------------------------------------------------------->
+<h1>PC SPECS</h1><hr>
 
-<h1>My Spotify ;<br></h1>
-<img align="center" alt="https://open.spotify.com/user/l7cg0ro29eba62c0i8f260c6t?si=427424126d394c73" width="150px" src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_White.png" />
+Intel I5 7200U
+AMD Radeon R5 M330 Graphic Card
+Samsung and Kingston 2133Mhz 2x8 GB Ram<br>
+<------------------------------------------------------------->
+<h1>EQUIPMENTS</h1><hr>
 
-
+Keyboard => Redragon K568 RGB
+Mouse => SteelSeries Rival 3
+Headphone => SteelSeries Arctis 1
+<br>
 <-------------------------------------------------------------><br>
 //
