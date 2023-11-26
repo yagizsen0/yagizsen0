@@ -1,8 +1,8 @@
 - 👀 I’m interested in Back-End Developing and Game Developing.
-- 🌱 I’m currently learning Unity and Python.
-- 👨‍💻 Founder of Matris Software
+- 🌱 I’m currently learning C#
+- 👨‍💻 Founder of Biberzahi Software
 - 📫 My Instagram is @yagizsen0
-- ☎️ My Discord is yagizsen0#1556
+- ☎️ My Discord is @yagizsen0
 
 <------------------------------------------------------------->
 <h1>PC SPECS</h1><hr>
